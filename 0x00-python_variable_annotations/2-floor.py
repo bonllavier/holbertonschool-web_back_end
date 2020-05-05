@@ -5,4 +5,4 @@ import math
 
 def floor(n: float) -> int:
     """ return any number like an int """
-    return math.floor(3.14)
+    return math.floor(n)
