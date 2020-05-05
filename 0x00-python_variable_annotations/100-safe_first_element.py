@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """module 100"""
-from typing import List, Union, Tuple, Callable, Iterable, Sequence
+from typing import List, Union, Tuple, Callable, Iterable, Sequence, Any
 
 
 def safe_first_element(lst: Sequence[Any]) -> Union[Any, None]:
